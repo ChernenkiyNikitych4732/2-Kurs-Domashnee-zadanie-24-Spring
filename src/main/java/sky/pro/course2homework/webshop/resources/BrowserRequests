@@ -1,0 +1,2 @@
+http://localhost:8080/store/order/add?name=стакан&price=53
+http://localhost:8080/store/order/get
