@@ -20,6 +20,6 @@ public class ShopController {
 
     @GetMapping("/get")
     public String get(){
-        return shopService.get();
+        return shopService.keySet();
     }
 }
